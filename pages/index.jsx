@@ -38,7 +38,7 @@ const Home = ({
           <Row title="Documentaries" movies={documentaries} />
         </section>
 			</main>
-			{/* Modal */}
+			<h1>Welcome to clone netflix</h1>
 		</div>
 	);
 };
